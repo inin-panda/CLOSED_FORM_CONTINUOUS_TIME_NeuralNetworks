@@ -1,7 +1,5 @@
 Python 3.10 or newer
 
-In folder ```CLOSED_FORM_CONTINUOUS_TIME_NeuralNetworks```
-
 **Dataset**
 
 With Data for walker.py
