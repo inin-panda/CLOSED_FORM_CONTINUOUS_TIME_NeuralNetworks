@@ -113,3 +113,14 @@ python train_et_smnist_ltc.py --model ltc
     #train full CfC model: number of training 10 epochs 
 python train_et_smnist_ltc.py --model cfc --epochs 10 
 ```
+
+## References
+| Models | References |
+| ----- | ----- |
+| Liquid time-constant Networks | https://arxiv.org/abs/2006.04439 |
+| Neural ODEs | https://papers.nips.cc/paper/7892-neural-ordinary-differential-equations.pdf |
+| Continuous-time RNNs | https://www.sciencedirect.com/science/article/abs/pii/S089360800580125X |
+| A Tutorial on Liquid Neural Networks including Liquid CfCs| https://ncps.readthedocs.io/en/latest/quickstart.html |
+| Closed-form Continuous-time Neural Networks (CfCs)| Paper Open Access: https://www.nature.com/articles/s42256-022-00556-7 |
+| Closed-form Continuous-time Neural Networks (CfCs)| Arxiv: https://arxiv.org/abs/2106.13898 |
+
