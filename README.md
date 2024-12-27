@@ -1,6 +1,6 @@
 Python 3.10 or newer
 
-### Dataset
+## Dataset
 
 With Data for walker.py
 We can download all datasets by running
@@ -12,7 +12,7 @@ OR Link Download: https://people.csail.mit.edu/mlechner/datasets/walker.zip
 This script creates a folder ```data```, where all downloaded datasets are stored.
 
 And script creates a folder ```results```.
-
+<br>
 In folder ```CLOSED_FORM_CONTINUOUS_TIME_NeuralNetworks```
 ## 0. Clone the repository:
 ```bash
