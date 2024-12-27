@@ -14,6 +14,11 @@ This script creates a folder ```data```, where all downloaded datasets are store
 And script creates a folder ```results```.
 
 In folder ```CLOSED_FORM_CONTINUOUS_TIME_NeuralNetworks```
+## 0. Clone the repository:
+```bash
+git clone https://github.com/inin-panda/CLOSED_FORM_CONTINUOUS_TIME_NeuralNetworks.git
+cd CLOSED_FORM_CONTINUOUS_TIME_NeuralNetworks
+```
 
 ## 1. Create and activate a virtual environment:
 - For Unix/macOS:
